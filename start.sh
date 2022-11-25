@@ -1,2 +1,2 @@
 python3 --version
-sudo apt-get install python3.8 python3-pip
+python3 update.py
