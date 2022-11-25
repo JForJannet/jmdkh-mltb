@@ -26,5 +26,5 @@ requests
 tenacity
 tgCrypto
 xattr
-yt-dlp
+
 speedtest-cli
