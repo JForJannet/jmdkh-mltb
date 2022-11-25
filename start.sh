@@ -1,4 +1,3 @@
-git clone $UPSTREAM_REPO /junedkhmr
-cd /junedkhmr
+cd /python
 pip3 install -U -r requirements.txt
-python3 update.py && python3 -m bot
+python update.py && python -m bot
