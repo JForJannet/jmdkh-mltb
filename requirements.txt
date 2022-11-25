@@ -25,4 +25,4 @@ requests
 tenacity
 tgCrypto
 xattr
-yt-dlp
+
