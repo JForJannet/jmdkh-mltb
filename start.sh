@@ -1,2 +1,2 @@
-python3 --version
-python3 update.py
+python --version
+python update.py
